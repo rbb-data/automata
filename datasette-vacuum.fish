@@ -1,7 +1,7 @@
 #!/usr/bin/fish
 
 function help_usage
-    echo 'Downloads paginated data as provided by datasette'
+    echo 'Helper to download paginated datasette-hosted data.'
     echo ''
     echo 'Usage: datasette-vacuum https://example.com/datasette_url.csv out_file_name'
     exit

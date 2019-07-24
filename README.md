@@ -6,7 +6,7 @@ This repository contains scripts that have been written on the side.
 
 ```
 $ ./datasette-vacuum.fish --help
-Downloads paginated data as provided by datasette
+Helper to download paginated datasette-hosted data.
 
 Usage: datasette-vacuum https://example.com/datasette_url.csv out_file_name
 ```
